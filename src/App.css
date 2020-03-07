@@ -133,5 +133,16 @@ table {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-end;
+}
+
+.App .panels {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.App .panels .middle {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
 }

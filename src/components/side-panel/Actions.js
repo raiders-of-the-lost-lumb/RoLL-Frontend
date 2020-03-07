@@ -3,9 +3,11 @@ import styled from "styled-components";
 import { Icon } from "semantic-ui-react";
 
 const ActionsDiv = styled.div`
-  width: 20%;
+  width: 100%;
+  height: 30vh;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
   background-color: #c4c4c4;
 

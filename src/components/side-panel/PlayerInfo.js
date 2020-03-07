@@ -3,7 +3,8 @@ import styled from "styled-components";
 
 const PlayerDiv = styled.div`
   padding: 5% 0 5% 0;
-  width: 20%;
+  width: 100%;
+  height: 30vh;
   background-color: #747474;
 
   div {

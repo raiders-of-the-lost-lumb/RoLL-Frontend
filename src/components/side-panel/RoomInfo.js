@@ -2,10 +2,12 @@ import React from "react";
 import styled from "styled-components";
 
 const RoomDiv = styled.div`
-  width: 20%;
+  width: 100%;
+  height: 32vh;
   background-color: #c4c4c4;
   margin-bottom: 0;
   padding-bottom: 5%;
+
   div {
     margin: 0 5% 0 5%;
     font-size: 20px;

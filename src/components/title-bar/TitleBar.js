@@ -2,8 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const Title = styled.div`
-  width: 100%;
-  height: 100%;
+  height: 8vh;
   font-size: 50px;
   color: white;
   background-color: #747474;

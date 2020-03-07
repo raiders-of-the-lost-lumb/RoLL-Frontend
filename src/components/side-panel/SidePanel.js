@@ -5,11 +5,9 @@ import PlayerInfo from "./PlayerInfo";
 import Actions from "./Actions";
 
 const PanelDiv = styled.div`
-  height: 100%
+  width: 20%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-
 `;
 
 function SidePanel() {
